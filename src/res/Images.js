@@ -1,0 +1,28 @@
+const images = {
+  backArrow: require('./Images/backArrow.png'),
+  cloud: require('./Images/cloud.png'),
+  cross: require('./Images/cross.png'),
+  downArrow: require('./Images/downArrow.png'),
+  inbox: require('./Images/inbox.png'),
+  loader: require('./Images/loader.png'),
+  one: require('./Images/one.png'),
+  opay: require('./Images/opay.png'),
+  aami: require('./Images/aami.png'),
+  vicroads: require('./Images/vcroads.png'),
+  belong: require('./Images/belong.png'),
+  optus: require('./Images/optus.png'),
+  puzzle: require('./Images/puzzle.png'),
+  sheild: require('./Images/sheild.png'),
+  smile: require('./Images/smile.png'),
+  splash: require('./Images/splash.png'),
+  star: require('./Images/star.png'),
+  timer: require('./Images/timer.png'),
+  two: require('./Images/two.png'),
+  zap: require('./Images/zap.png'),
+  doshy: require('./Images/document.png'),
+  profile: require('./Images/profile.png'),
+  document: require('./Images/documen.png'),
+  arrowside: require('./Images/arrowside.png'),
+};
+
+export default images;
